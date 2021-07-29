@@ -1,5 +1,5 @@
-$utilities: () !default;
-$untilities: map-merge(
+$utilities: () !default; //초기화
+$utilities: map-merge(
   (
     "custom-font-size": (
       responsive: true,
